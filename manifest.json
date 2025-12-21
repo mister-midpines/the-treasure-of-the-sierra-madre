@@ -1,0 +1,24 @@
+{
+  "short_name": "Jurassic Park",
+  "name": "Jurassic Park",
+  "description": "Jurassic Park, one frame at a time.",
+  "icons": [
+    {
+      "src": "https://jaws.superfun.games/touch-icon.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://jaws.superfun.games/touch-icon.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "https://jaws.superfun.games/index.html",
+  "background_color": "#000000",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#00d6f2"
+} 
