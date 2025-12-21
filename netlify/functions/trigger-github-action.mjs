@@ -2,7 +2,7 @@ const fetch = require('node-fetch');
 
 const GITHUB_PAT = process.env.GITHUB_TOKEN;
 const GITHUB_OWNER = 'mister-midpines';
-const GITHUB_REPO = 'jp';
+const GITHUB_REPO = 'the-treasure-of-the-sierra-madre';
 const WORKFLOW_FILENAME = 'advance_image.yml';
 const GIT_BRANCH = 'main';
 
